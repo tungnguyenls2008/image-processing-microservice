@@ -1,0 +1,5 @@
+endpoint URL: http://image-processing-microservice-dev.us-east-1.elasticbeanstalk.com/
+tested images:
+http://image-processing-microservice-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pedra_Azul_Milky_Way.jpg/1280px-Pedra_Azul_Milky_Way.jpg   SUCCESS
+http://image-processing-microservice-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://img.freepik.com/free-photo/young-asian-girl-portrait-isolated_53876-70968.jpg  SUCCESS
+http://image-processing-microservice-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg  SUCCESS
